@@ -1,7 +1,7 @@
 Gearbest.com
 Gearbest was founded in 2013 with the mission of creating a platform that truly puts the customer first. Since its inception, they have become one of the leading E-commerce platforms selling a wide range of consumer electronic gadgets. At Gearbest you can expect to find products you’ll love, superior service, and fast global shipping!
 
-Project build date : Construct week (03rd JUne - 13th June)
+
 
 <Img src="https://user-images.githubusercontent.com/100181581/177503408-fbb35083-7511-402a-9c82-e87f9c1d7da9.png" />
 
